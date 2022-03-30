@@ -6,7 +6,7 @@
 * **github**: [madketsy](https://github.com/madketsy)
 
 ## About myself
-My name is Ekaterina. I'm 37 years old, I'm from Moscow. I started studying JS and I want to become a professional in this field. I am active, inquisitive and very responsible. I like to work in a team and independently. I believe that JS is the future.
+My name is Ekaterina. I'm 37 years old, I'm from Moscow. I am junior. I started studying JS and I want to become a professional in this field. I am active, inquisitive and very responsible. I like to work in a team and independently. I believe that JS is the future.
 
 ## Skills
 I am a junior Front-end developer.I know a little bit of the basics:
