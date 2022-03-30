@@ -10,8 +10,8 @@ My name is Ekaterina. I'm 37 years old, I'm from Moscow. I started studying JS a
 
 ## Skills
 I am a junior Front-end developer.I know a little bit of the basics:
-* html
-* css
+* HTML
+* CSS
 * JS
 
 ## Code examples
@@ -27,4 +27,4 @@ Ulianovsk state Universuty, Institute of Economics and Business, Investment mana
 I haven't commercial development experience. But I learn JS and do my study projects. For example, [My sv](https://madketsy.github.io/rsschool-cv/cv)
 
 ## English level
-My Enhlish level is B1. I am going to improve my English skills.
+My Enhlish level is B1. I am going to improve my English skills. 
